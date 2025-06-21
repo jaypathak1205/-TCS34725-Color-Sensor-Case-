@@ -28,6 +28,6 @@ This case is part of a **Refined oil detection system**. The object/sample (oil 
 - Insert the TCS34725 sensor into the square slot on the top surface.
 - Secure the sensor using hot glue or 3D-printed brackets if necessary.
 - Place the oil sample directly under the box during measurement.
--
+
   
 **Designed by **Jayesh Pathak** as part of a refined oil quality detection prototype.**
